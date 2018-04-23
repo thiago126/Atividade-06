@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paesi</string>
+    <string name="btn_busca">Lista</string>
+    <string name="lblContinente">Continente:</string>
+    <string-array name="continentes">
+        <item>Tutto</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>
